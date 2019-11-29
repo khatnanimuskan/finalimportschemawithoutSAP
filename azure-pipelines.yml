@@ -1,8 +1,4 @@
 # ASP.NET
-- task: SoapUIProForAzureDevOpsTask@2
-  inputs:
-    project: 'REST-Project-1-readyapi-project.xml'
-    testSuite: 'TestSuit1'
 # Build and test ASP.NET projects.
 # Add steps that publish symbols, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
